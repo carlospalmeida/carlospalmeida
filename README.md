@@ -1,6 +1,6 @@
 ### Eai,Carlos Pereira.
 
-- 🌱 Estudando T.I,python,c#
+- 🌱 Estudando T.I,python e c#
 - 📫 email profissional: cpokadu2004@gmail.com 
 
 <div align="center">
