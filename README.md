@@ -1,16 +1,28 @@
-### Hi there 👋
+### Eai,Carlos Pereira.
 
-<!--
-**carlospalmeida/carlospalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando T.I,python,c#
+- 📫 email profissional: cpokadu2004@gmail.com 
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/carlospalmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlospalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospalmeida&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/cf/bc/ba/cfbcba34c85f62ea54f89df82dffb546.jpg">
+</div>
+
+
+##
+
+
+  
+  
+  
+##
