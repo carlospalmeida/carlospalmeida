@@ -25,7 +25,7 @@
   
   
   
-##
+
 ### Estudando no momento:
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
@@ -33,4 +33,4 @@
  
 ##
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlospalmeida&bg_color=000040&color=80ffff&line=00ff40&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carlospalmeida&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
