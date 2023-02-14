@@ -1,12 +1,16 @@
 ### Eai,tranquilos?🤙
 
-- 👨‍💻 Estuando T.I,c#,python,HTML,CSS,javascript;
-- ⛪ Estudo no Senac sp;
-- 🥋 Praticante de Artes Marciais;
+- 👨‍💻 Estuando ```c#,python,HTML,CSS e javascript```;
+- ⛪ Estudo no ```Senac SP```;
+- 🥋 Praticante de ```Artes Marciais```;
 - ⚡ Obdiente,levo a sério hierarquias impostas em ambiente de trabalho alem de sempre me interresar em aprender.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospalmeida&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospalmeida)](https://github.com/anuraghazra/github-readme-stats)
+[link do linkedin](https://www.linkedin.com/in/carlos-eduardo-pereira-almeida-251b03239/)
+
+[link Instagram]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospalmeida&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospalmeida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
