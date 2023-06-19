@@ -24,4 +24,3 @@
   <img align="center"  height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carlospalmeida&bg_color=030303&color=fff700&line=e60000&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
