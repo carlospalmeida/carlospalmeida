@@ -1,9 +1,7 @@
 ### Eai,tranquilos?🤙
 
-- 👨‍💻 Estuando ```c#,python,HTML,CSS e javascript```;
-- ⛪ Estudo no ```Senac SP```;
+- 👨‍💻 Formado em ```T.I no Senac SP```;
 - 🥋 Praticante de ```Artes Marciais```;
-- ⚡ Obdiente,levo a sério hierarquias impostas em ambiente de trabalho alem de sempre me interresar em aprender.
 
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[link do linkedin](https://www.linkedin.com/in/carlos-eduardo-pereira-almeida-251b03239/) <br>
 
