@@ -2,7 +2,8 @@
 
 - 👨‍💻 Formado em ```T.I no Senac SP```;
 - 🥋 Praticante de ```Artes Marciais```;
-- Suporte tecnco em ```Nipbr telecom```
+- Suporte tecnico em ```Nipbr telecom```;
+- Cursando ```Análise de sistemas``` em Unopar 1/2,5
 
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[linkedin](https://www.linkedin.com/in/carlos-eduardo-pereira-almeida-251b03239/) <br>
 
